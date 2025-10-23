@@ -1,2 +1,4 @@
 # Mixture-of-experts_MoE
-Exploring mixture of experts stuff
+MoE understanding /simple implementation 
+Level1 : Implementing a MoE layer from scratch
+Level 2: idk yet
